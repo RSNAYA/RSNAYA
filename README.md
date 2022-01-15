@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsnaya" alt="rsnaya" /></a> </p>
 
-- 🌱 I’m currently learning **C Languages**
+- 🌱 I’m currently learning: **C Languages**
 
-- 💬 Ask me about **python,php,and web design!**
+- 💬 Ask me about: **python, php, and web design!**
 
-- 📫 How to reach me **rohannayak07@gmail.com**
+- 📫 How to reach me: **rohannayak07@gmail.com**
 
-- ⚡ Fun fact **I'm allergic to nuts.**
+- ⚡ Fun fact: **I'm allergic to nuts.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
